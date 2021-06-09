@@ -5,5 +5,7 @@
 **SimpliLearn PG FSD JAVA** 
 ## Sprint - [Trello](https://trello.com/b/Nv5qK2CW)
 
-# A simple Angualr-Quiz-App 
+# Live Link
+[AWS S3 Bucket](http://angular-quiz.s3-website-us-east-1.amazonaws.com/welcome)
+
 
